@@ -1,0 +1,26 @@
+{
+  "name": "LLJS",
+  "version": "0.0.0",
+  "description": "Low Level Javascript",
+  "main": "src/ljc.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmars/LLJS.git"
+  },
+  "keywords": [
+    "low",
+    "level",
+    "memory",
+    "management",
+    "javascript"
+  ],
+  "author": "",
+  "license": "BSD"
+}
